@@ -1,0 +1,25 @@
+body{
+  padding-top: 5%;
+}
+a, th {
+  cursor: pointer;
+}
+.filters{
+  border-radius: 2px;
+  border: black .5px solid;
+  padding: 2%;
+}
+.one-page{
+  display: none;
+}
+.many-pages{
+  display: block;
+}
+@media screen and (max-width: 769px) {
+  .one-page{
+    display: block;
+  }
+  .many-pages{
+    display: none;
+  }
+}
