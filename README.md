@@ -2,12 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
-##Prerequisites
+## Prerequisites
 
 Node.js
 Angular CLI
-
-##
 
 Before launching the app, import all packages `npm install`
 
